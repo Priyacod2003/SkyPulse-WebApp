@@ -1,3 +1,4 @@
-# SkyPulse-WebApp
-Weather Forecast Project
-SkyPulse is an User-friendly, Responsive and Dynamic-UI Real-Time Weather Fetching Web Application. Designed using HTML, CSS, JAVASCRIPT, RestAPI. Named as "Sky Pulse".
+# Weather-WebApp-SkyGlimpse
+It's fully functional Responsive, implemented User-friendly and Dynamic-UI Weather Report Fetching Web Application. Designed using HTML, CSS, JAVASCRIPT, API. Named as "Sky Glimpse". 
+# Live Project Link: 
+https://moonleadercs.github.io/Weather-WebApp-SkyGlimpse/
